@@ -120,6 +120,7 @@ The skill marks which source each rule comes from. Applying the tests to causal 
 
 - [BEAM](https://github.com/Halfofthesky/beam): maps what each source does in your text.
 - [Concept Check](https://github.com/Halfofthesky/concept-check): tests whether a concept earns its place.
+- [Stasis](https://github.com/Halfofthesky/stasis): finds where a disagreement sits and whether the text meets it there.
 - [Logic & Reasoning Skills](https://github.com/Halfofthesky/logic-reasoning-skills): reconstructs arguments, spots fallacies, solves formal logic.
 - [Adversarial Editorial Review](https://github.com/Halfofthesky/adversarial-editorial-review): three reviewers and an editorial synthesis for humanities manuscripts.
 
